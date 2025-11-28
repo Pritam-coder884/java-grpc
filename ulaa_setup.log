@@ -1,0 +1,14 @@
+2025/09/30 14:34:02 main.go:71: INFO: Starting app with C:\Users\pritam.dash\Downloads\Ulaa-Browser-Installer-v2.35.4.exe
+2025/09/30 14:34:02 main.go:214: C:\Users\Public\Temp
+2025/09/30 14:34:03 main.go:263: C:\Users\PRITAM~1.DAS\AppData\Local\Temp
+2025/09/30 14:34:03 main.go:160: 
+INFO: WebView2 140.0.3485.94 already installed for LOCAL_MACHINE.
+2025/09/30 14:34:03 main.go:105: INFO: Start installing via offline installer
+2025/09/30 14:34:03 main.go:276: INFO: Executing cmd -> C:\Users\PRITAM~1.DAS\AppData\Local\Temp\UlaaUpdateAssistant.exe from C:\Users\PRITAM~1.DAS\AppData\Local\Temp with args [--install --offline ]
+2025/09/30 14:35:06 main.go:71: INFO: Starting app with C:\Users\pritam.dash\Downloads\Ulaa-Browser-Installer-v2.35.4.exe
+2025/09/30 14:35:06 main.go:214: C:\Users\Public\Temp
+2025/09/30 14:35:07 main.go:263: C:\Users\PRITAM~1.DAS\AppData\Local\Temp
+2025/09/30 14:35:07 main.go:160: 
+INFO: WebView2 140.0.3485.94 already installed for LOCAL_MACHINE.
+2025/09/30 14:35:07 main.go:105: INFO: Start installing via offline installer
+2025/09/30 14:35:07 main.go:276: INFO: Executing cmd -> C:\Users\PRITAM~1.DAS\AppData\Local\Temp\UlaaUpdateAssistant.exe from C:\Users\PRITAM~1.DAS\AppData\Local\Temp with args [--install --offline ]
